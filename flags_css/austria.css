@@ -1,0 +1,15 @@
+.austria_branco {
+  width: 300px;
+  height: 180px;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.austria_vermelho {
+  width: 300px;
+  height: 60px;
+  background-color: rgb(255, 0, 0);
+}

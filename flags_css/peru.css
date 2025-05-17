@@ -1,0 +1,15 @@
+.peru_branco {
+  width: 300px;
+  height: 180px;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.peru_vermelho {
+  width: 100px;
+  height: 180px;
+  background-color: rgb(255, 0, 0);
+}
