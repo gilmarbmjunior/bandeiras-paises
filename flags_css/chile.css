@@ -1,0 +1,26 @@
+.chile_vermelho {
+  width: 300px;
+  height: 180px;
+  background-color: rgb(255, 0, 0);
+}
+
+.chile_branco {
+  width: 300px;
+  height: 90px;
+  background-color: rgb(255, 255, 255);
+}
+
+.chile_azul {
+  width: 90px;
+  height: 90px;
+  background-color: rgb(0, 38, 209);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.chile_estrela_branco {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+}

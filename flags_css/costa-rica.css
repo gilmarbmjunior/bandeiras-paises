@@ -1,0 +1,22 @@
+.costa_rica_azul {
+  width: 300px;
+  height: 180px;
+  background-color: rgb(38, 67, 196);
+  display: flex;
+  align-items: center;
+}
+
+.costa_rica_branco {
+  width: 300px;
+  height: 120px;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+}
+
+.costa_rica_vermelho {
+  width: 300px;
+  height: 60px;
+  background-color: rgb(248, 18, 38);
+  position: relative;
+}

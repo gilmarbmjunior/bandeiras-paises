@@ -1,0 +1,67 @@
+.africa_sul_branco {
+  width: 300px;
+  height: 180px;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.africa_sul_vermelho {
+  width: 300px;
+  height: 60px;
+  background-color: rgb(255, 0, 0);
+}
+
+.africa_sul_azul {
+  width: 300px;
+  height: 60px;
+  background-color: rgb(0, 25, 167);
+}
+
+.africa_sul_verde {
+  width: 300px;
+  height: 36px;
+  background-color: rgb(0, 122, 10);
+  position: absolute;
+  top: calc(50% - 18px);
+}
+
+.africa_sul_losango_branco {
+  width: 400px;
+  height: 300px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: calc(50% - 150px);
+  left: -230px;
+}
+
+.africa_sul_losango_verde {
+  width: 400px;
+  height: 300px;
+  background-color: rgb(0, 122, 10);
+  position: absolute;
+  top: calc(50% - 150px);
+  left: -250px;
+}
+
+.africa_sul_losango_amarelo {
+  width: 400px;
+  height: 300px;
+  background-color: rgb(255, 187, 0);
+  position: absolute;
+  top: calc(50% - 150px);
+  left: -310px;
+}
+
+.africa_sul_losango_preto {
+  width: 400px;
+  height: 300px;
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  top: calc(50% - 150px);
+  left: -330px;
+}

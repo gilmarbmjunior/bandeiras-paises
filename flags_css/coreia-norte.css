@@ -1,0 +1,38 @@
+.coreia_norte_azul {
+  width: 300px;
+  height: 180px;
+  background-color: rgb(38, 67, 196);
+  display: flex;
+  align-items: center;
+}
+
+.coreia_norte_branco {
+  width: 300px;
+  height: 120px;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+}
+
+.coreia_norte_vermelho {
+  width: 300px;
+  height: 105px;
+  background-color: rgb(245, 35, 52);
+  position: relative;
+}
+
+.coreia_norte_circulo_branco {
+  width: 80px;
+  height: 80px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 100%;
+  position: absolute;
+  top: calc(50% - 40px);
+  left: 20%;
+}
+
+.coreia_norte_estrela_vermelho {
+  width: 80px;
+  height: 80px;
+  background-color: rgb(245, 35, 52);
+}

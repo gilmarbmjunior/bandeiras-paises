@@ -1,0 +1,87 @@
+.comores_azul {
+  width: 300px;
+  height: 180px;
+  background-color: rgb(42, 88, 214);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.comores_amarelo {
+  width: 300px;
+  height: 45px;
+  background-color: rgb(255, 238, 0);
+}
+
+.comores_branco {
+  width: 300px;
+  height: 45px;
+  background-color: rgb(255, 255, 255);
+}
+
+.comores_vermelho {
+  width: 300px;
+  height: 45px;
+  background-color: rgb(255, 46, 46);
+}
+
+.comores_losango_verde {
+  width: 500px;
+  height: 300px;
+  background-color: rgb(73, 168, 64);
+  position: absolute;
+  top: calc(50% - 150px);
+  left: -350px;
+  overflow: visible;
+}
+
+.comores_lua_branco {
+  width: 80px;
+  height: 80px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 100%;
+  position: absolute;
+  right: 60px;
+  top: calc(50% - 35px);
+}
+
+.comores_lua_verde {
+  width: 70px;
+  height: 80px;
+  background-color: rgb(73, 168, 64);
+  border-radius: 100%;
+  position: absolute;
+  right: 55px;
+  top: calc(50% - 35px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3px;
+}
+
+.comores_estrela_branco_1 {
+  width: 15px;
+  height: 15px;
+  background-color: rgb(255, 255, 255);
+}
+
+.comores_estrela_branco_2 {
+  width: 15px;
+  height: 15px;
+  background-color: rgb(255, 255, 255);
+}
+
+.comores_estrela_branco_3 {
+  width: 15px;
+  height: 15px;
+  background-color: rgb(255, 255, 255);
+}
+
+.comores_estrela_branco_4 {
+  width: 15px;
+  height: 15px;
+  background-color: rgb(255, 255, 255);
+}

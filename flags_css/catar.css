@@ -1,0 +1,97 @@
+.catar_vermelho {
+  width: 300px;
+  height: 180px;
+  background-color: rgb(134, 7, 71);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.catar_branco {
+  width: 80px;
+  height: 180px;
+  background-color: rgb(255, 255, 255);
+}
+
+.catar_losango_branco_1 {
+  width: 80px;
+  height: 20px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: 0;
+  left: 40px;
+}
+
+.catar_losango_branco_2 {
+  width: 80px;
+  height: 20px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: 20px;
+  left: 40px;
+}
+
+.catar_losango_branco_3 {
+  width: 80px;
+  height: 20px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: 40px;
+  left: 40px;
+}
+
+.catar_losango_branco_4 {
+  width: 80px;
+  height: 20px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: 60px;
+  left: 40px;
+}
+
+.catar_losango_branco_5 {
+  width: 80px;
+  height: 20px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: 80px;
+  left: 40px;
+}
+
+.catar_losango_branco_6 {
+  width: 80px;
+  height: 20px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: 100px;
+  left: 40px;
+}
+
+.catar_losango_branco_7 {
+  width: 80px;
+  height: 20px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: 120px;
+  left: 40px;
+}
+
+.catar_losango_branco_8 {
+  width: 80px;
+  height: 20px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: 140px;
+  left: 40px;
+}
+
+.catar_losango_branco_9 {
+  width: 80px;
+  height: 20px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: 160px;
+  left: 40px;
+}

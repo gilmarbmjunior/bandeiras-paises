@@ -1,0 +1,16 @@
+.bangladesh_verde {
+  width: 300px;
+  height: 180px;
+  background-color: rgb(0, 117, 29);
+  position: relative;
+}
+
+.bangladesh_vermelho {
+  width: 120px;
+  height: 120px;
+  background-color: rgb(255, 0, 55);
+  border-radius: 100%;
+  position: relative;
+  top: calc(50% - 60px);
+  left: 60px;
+}

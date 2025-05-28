@@ -1,0 +1,25 @@
+.congo_amarelo {
+  width: 300px;
+  height: 180px;
+  background-color: rgb(255, 223, 43);
+  position: relative;
+  overflow: hidden;
+}
+
+.congo_verde {
+  width: 550px;
+  height: 500px;
+  background-color: rgb(47, 163, 63);
+  position: absolute;
+  bottom: -30px;
+  right: 20%;
+}
+
+.congo_vermelho {
+  width: 550px;
+  height: 500px;
+  background-color: rgb(255, 21, 21);
+  position: absolute;
+  top: -30px;
+  left: 20%;
+}

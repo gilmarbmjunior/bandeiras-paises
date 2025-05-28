@@ -1,0 +1,21 @@
+.burkina_faco_verde {
+  width: 300px;
+  height: 180px;
+  background-color: rgb(0, 158, 47);
+  position: relative;
+}
+
+.burkina_faco_vermelho {
+  width: 300px;
+  height: 90px;
+  background-color: rgb(223, 0, 37);
+}
+
+.burkina_faco_estrela_amarelo {
+  width: 70px;
+  height: 70px;
+  background-color: rgb(255, 238, 0);
+  position: absolute;
+  top: calc(50% - 35px);
+  left: calc(50% - 35px);
+}
