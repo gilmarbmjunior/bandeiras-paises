@@ -1,0 +1,21 @@
+.irlanda_branco {
+  width: 300px;
+  height: 180px;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.irlanda_verde {
+  width: 100px;
+  height: 180px;
+  background-color: rgb(0, 180, 15);
+}
+
+.irlanda_laranja {
+  width: 100px;
+  height: 180px;
+  background-color: rgb(255, 136, 0);
+}

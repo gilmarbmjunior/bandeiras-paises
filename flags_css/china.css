@@ -1,0 +1,55 @@
+.china_vermelho {
+  width: 300px;
+  height: 180px;
+  background-color: rgb(255, 0, 0);
+  position: relative;
+}
+
+.china_estrela_1 {
+  width: 60px;
+  height: 60px;
+  background-color: rgb(255, 255, 0);
+  position: absolute;
+  top: 30px;
+  left: 20px;
+}
+
+.china_estrela_2 {
+  width: 20px;
+  height: 20px;
+  background-color: rgb(255, 255, 0);
+  position: absolute;
+  top: 15px;
+  left: 90px;
+  transform: rotate(85deg);
+}
+
+.china_estrela_3 {
+  width: 20px;
+  height: 20px;
+  background-color: rgb(255, 255, 0);
+  position: absolute;
+  top: 38px;
+  left: 110px;
+  transform: rotate(45deg);
+}
+
+.china_estrela_4 {
+  width: 20px;
+  height: 20px;
+  background-color: rgb(255, 255, 0);
+  position: absolute;
+  top: 67px;
+  left: 110px;
+  transform: rotate(-5deg);
+}
+
+.china_estrela_5 {
+  width: 20px;
+  height: 20px;
+  background-color: rgb(255, 255, 0);
+  position: absolute;
+  top: 90px;
+  left: 90px;
+  transform: rotate(25deg);
+}

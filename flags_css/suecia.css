@@ -1,0 +1,22 @@
+.suecia_vermelho {
+  width: 300px;
+  height: 180px;
+  background-color: rgb(0, 81, 255);
+  position: relative;
+}
+
+.suecia_cruz_horizontal {
+  width: 300px;
+  height: 40px;
+  background-color: rgb(255, 255, 0);
+  position: absolute;
+  top: calc(50% - 20px);
+}
+
+.suecia_cruz_vertical {
+  width: 40px;
+  height: 180px;
+  background-color: rgb(255, 255, 0);
+  position: absolute;
+  left: calc(35% - 20px);
+}

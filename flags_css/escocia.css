@@ -1,0 +1,27 @@
+.escocia_azul {
+  width: 300px;
+  height: 180px;
+  background-color: rgb(0, 20, 200);
+  position: relative;
+  overflow: hidden;
+}
+
+.escocia_diagonal_horizontal {
+  width: 400px;
+  height: 40px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: calc(50% - 20px);
+  left: calc(50% - 200px);
+  transform: rotate(30deg);
+}
+
+.escocia_diagonal_vertical {
+  width: 40px;
+  height: 400px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: calc(50% - 200px);
+  left: calc(50% - 20px);
+  transform: rotate(60deg);
+}

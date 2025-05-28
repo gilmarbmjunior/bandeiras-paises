@@ -1,0 +1,102 @@
+.reino_unido_azul {
+  width: 300px;
+  height: 180px;
+  background-color: rgb(0, 20, 200);
+  position: relative;
+  overflow: hidden;
+}
+
+.reino_unido_diagonal_branco_horizontal {
+  width: 400px;
+  height: 40px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: calc(50% - 20px);
+  left: calc(50% - 200px);
+  transform: rotate(30deg);
+}
+
+.reino_unido_diagonal_branco_vertical {
+  width: 40px;
+  height: 400px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: calc(50% - 200px);
+  left: calc(50% - 20px);
+  transform: rotate(60deg);
+}
+
+.reino_unido_diagonal_vermelho_top_left {
+  width: 400px;
+  height: 10px;
+  background-color: rgb(255, 0, 0);
+  position: absolute;
+  transform: rotate(30deg);
+  right: 110px;
+}
+
+.reino_unido_diagonal_vermelho_top_rigth {
+  width: 10px;
+  height: 400px;
+  background-color: rgb(255, 0, 0);
+  position: absolute;
+  transform: rotate(60deg);
+  bottom: 0px;
+  right: -32px;
+}
+
+.reino_unido_diagonal_vermelho_bottom_left {
+  width: 400px;
+  height: 10px;
+  background-color: rgb(255, 0, 0);
+  position: absolute;
+  transform: rotate(150deg);
+  bottom: 0;
+  left: -180px;
+}
+
+.reino_unido_diagonal_vermelho_bottom_rigth {
+  width: 400px;
+  height: 10px;
+  background-color: rgb(255, 0, 0);
+  position: absolute;
+  transform: rotate(30deg);
+  bottom: 0;
+  left: 110px;
+}
+
+.reino_unido_cruz_branco_horizontal {
+  width: 300px;
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: calc(50% - 25px);
+  left: calc(50% - 150px);
+}
+
+.reino_unido_cruz_branco_vertical {
+  width: 50px;
+  height: 180px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: calc(50% - 90px);
+  left: calc(50% - 25px);
+}
+
+.reino_unido_cruz_vermelho_horizontal {
+  width: 300px;
+  height: 30px;
+  background-color: rgb(255, 0, 0);
+  position: absolute;
+  top: calc(50% - 15px);
+  left: calc(50% - 150px);
+}
+
+.reino_unido_cruz_vermelho_vertical {
+  width: 30px;
+  height: 180px;
+  background-color: rgb(255, 0, 0);
+  position: absolute;
+  top: calc(50% - 90px);
+  left: calc(50% - 15px);
+}
