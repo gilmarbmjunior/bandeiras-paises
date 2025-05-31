@@ -1,0 +1,75 @@
+.antilhas_holandesas_branco {
+  width: 300px;
+  height: 180px;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+}
+
+.antilhas_holandesas_vermelho {
+  width: 60px;
+  height: 180px;
+  background-color: rgb(255, 0, 0);
+  position: absolute;
+  left: calc(50% - 30px);
+}
+
+.antilhas_holandesas_azul {
+  width: 300px;
+  height: 60px;
+  background-color: rgb(0, 63, 199);
+  position: absolute;
+  top: calc(50% - 30px);
+}
+
+.antilhas_holandesas_box_estrelas {
+  width: 96px;
+  height: 60px;
+  position: absolute;
+  top: calc(50% - 30px);
+  left: calc(50% - 48px);
+}
+
+.antilhas_holandesas_estrela_1 {
+  width: 15px;
+  height: 15px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: 3px;
+  left: calc(50% - 7.5px);
+}
+
+.antilhas_holandesas_estrela_2 {
+  width: 15px;
+  height: 15px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: calc(40% - 7.5px);
+  left: calc(37% - 7.5px);
+}
+
+.antilhas_holandesas_estrela_3 {
+  width: 15px;
+  height: 15px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: calc(40% - 7.5px);
+  right: calc(37% - 7.5px);
+}
+
+.antilhas_holandesas_estrela_4 {
+  width: 15px;
+  height: 15px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  bottom: 3px;
+  left: calc(44% - 7.5px);
+}
+
+.antilhas_holandesas_estrela_5 {
+  width: 15px;
+  height: 15px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  bottom: 3px;
+  right: calc(44% - 7.5px);
+}

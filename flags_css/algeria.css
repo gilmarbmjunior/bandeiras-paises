@@ -1,0 +1,53 @@
+.algeria_branco {
+  width: 300px;
+  height: 180px;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.algeria_verde {
+  width: 150px;
+  height: 180px;
+  background-color: rgb(0, 95, 13);
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.algeria_lua_vermelha {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(189, 1, 1);
+  border-radius: 100%;
+  position: relative;
+}
+
+.algeria_lua_transparente {
+  width: 80px;
+  height: 80px;
+  border-radius: 100%;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: calc(50% - 40px);
+  right: -3px;
+  overflow: hidden;
+}
+
+.algeria_lua_verde {
+  width: 27px;
+  height: 80px;
+  background-color: rgb(0, 95, 13);
+}
+
+.algeria_estrela_vermelho {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(189, 1, 1);
+  position: absolute;
+  top: calc(50% - 25px);
+  right: 0;
+  rotate: 17deg;
+}

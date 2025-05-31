@@ -44,17 +44,17 @@
   border-radius: 100%;
   position: absolute;
   right: 60px;
-  top: calc(50% - 35px);
+  top: calc(50% - 40px);
 }
 
 .comores_lua_verde {
   width: 70px;
   height: 80px;
-  background-color: rgb(73, 168, 64);
+  background-color: rgb(64, 161, 168);
   border-radius: 100%;
   position: absolute;
   right: 55px;
-  top: calc(50% - 35px);
+  top: calc(50% - 40px);
   display: flex;
   flex-direction: column;
   justify-content: center;
