@@ -50,7 +50,6 @@
   height: 40px;
   background-color: rgb(43, 137, 226);
   position: absolute;
-  display: none;
 }
 
 .coreia_sul_faixas_inferior_esquerda {
@@ -58,7 +57,6 @@
   height: 40px;
   background-color: rgb(43, 226, 98);
   position: absolute;
-  display: none;
 }
 
 .coreia_sul_faixas_inferior_direita {
@@ -66,5 +64,4 @@
   height: 40px;
   background-color: rgb(226, 192, 43);
   position: absolute;
-  display: none;
 }
